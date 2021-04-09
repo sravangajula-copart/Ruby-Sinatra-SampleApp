@@ -1,0 +1,1 @@
+BLACKLISTED_WORDS = %w[Fuck Fucked Shit Suck Piss Pissed Dick Asshole Bastard Damn Cunt coward].freeze

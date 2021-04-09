@@ -1,0 +1,13 @@
+current directory: /Users/srgajula/Desktop/Sravan-Desktop/TestWorkspace/sample_assignment/.bundle/ruby/2.5.0/gems/json-2.5.1/ext/json
+/usr/local/rvm/rubies/ruby-2.5.0/bin/ruby -I /usr/local/rvm/rubies/ruby-2.5.0/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210407-19144-btoykk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/srgajula/Desktop/Sravan-Desktop/TestWorkspace/sample_assignment/.bundle/ruby/2.5.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/srgajula/Desktop/Sravan-Desktop/TestWorkspace/sample_assignment/.bundle/ruby/2.5.0/gems/json-2.5.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/srgajula/Desktop/Sravan-Desktop/TestWorkspace/sample_assignment/.bundle/ruby/2.5.0/gems/json-2.5.1/ext/json
+make "DESTDIR=" install

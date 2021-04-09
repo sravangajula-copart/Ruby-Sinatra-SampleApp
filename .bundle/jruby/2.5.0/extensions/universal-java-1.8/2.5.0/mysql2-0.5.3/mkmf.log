@@ -1,0 +1,12 @@
+" -o conftest -I/include/universal-java1.8 -I/usr/local/rvm/rubies/jruby-9.2.9.0/lib/ruby/include/ruby/backward -I/usr/local/rvm/rubies/jruby-9.2.9.0/lib/ruby/include -I.  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE     -DTARGET_RT_MAC_CFM=0  -fno-omit-frame-pointer -fno-strict-aliasing  -fexceptions  conftest.c  -L. -L/usr/local/rvm/rubies/jruby-9.2.9.0/lib    -arch x86_64      "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby.h>
+4: int main(int argc, char **argv)
+5: {
+6:   return 0;
+7: }
+/* end */
+
